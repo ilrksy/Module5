@@ -4,7 +4,7 @@
 // show the result.
 
 function init() {
-    $dc.loadSnippet('snippets/home-snippet.html', function (homeSnippetHTML) {
+    $dc.loadSnippet('home-snippet.html', function (homeSnippetHTML) {
 
         // STEP 1: buildAndShowHomeHTML runs once the categories come back.
         $dc.retrieveCategories(function (categories) {

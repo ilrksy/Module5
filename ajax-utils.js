@@ -37,11 +37,11 @@ var $dc = (function () {
     }
 
     function retrieveCategories(callback) {
-        ajaxGetJSON('data/categories.json', callback);
+        ajaxGetJSON('categories.json', callback);
     }
 
     function retrieveMenuItems(categoryShortName, callback) {
-        ajaxGetJSON('data/menu_items_' + categoryShortName + '.json', callback);
+        ajaxGetJSON('menu_items_' + categoryShortName + '.json', callback);
     }
 
     return {
