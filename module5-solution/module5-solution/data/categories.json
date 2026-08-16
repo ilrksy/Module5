@@ -1,0 +1,6 @@
+[
+    { "name": "Lunch Specials", "short_name": "L" },
+    { "name": "Dinner Entrees", "short_name": "D" },
+    { "name": "Sushi", "short_name": "S" },
+    { "name": "Desserts", "short_name": "T" }
+]
