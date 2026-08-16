@@ -1,0 +1,5 @@
+[
+    { "name": "California Roll", "price": "6.50", "description": "Crab, avocado, and cucumber." },
+    { "name": "Salmon Nigiri (2pc)", "price": "5.00", "description": "Fresh salmon over seasoned rice." },
+    { "name": "Spicy Tuna Roll", "price": "7.00", "description": "Tuna, spicy mayo, and scallions." }
+]
